@@ -1,0 +1,31 @@
+*{margin:0; padding:0}
+
+html{overflow:auto}
+
+body{font-size:14px; color:#000; background:url(../images/bg.jpg) no-repeat center center fixed; -webkit-background-size:cover; -moz-background-size:cover; -o-background-size:cover; background-size:cover;  center; font-family:Consolas,Helvetica,sans-serif}
+
+a:link{color:#000; text-decoration:none}
+a:visited{text-decoration:none; color:#000}
+a:hover{text-decoration:none; color:#000}
+a:active{text-decoration:none; color:#000}
+
+.tb{font-family:"Consolas",Arial,Helvetica,sans-serif; font-size:12px; color:#0196e3}
+
+.tabula{border-width:1px; border-collapse:collapse; border-color:#666; font-family:"Consolas",Arial,Helvetica,sans-serif; font-size:12px; color:#eee; font-weight:bold}
+
+h4{font-size:10px; color:#000}
+
+h2{font-size:20px; color:#f00; margin:10px}
+
+ 
+a, a:link, a:visited, a:active{color:#AAA; text-decoration:none; font-size:12px}
+a:hover{border-bottom:1px dotted #FAD506; color:#AAA}
+img{border:none}
+
+#main{width:600px; background:rgba(30,30,30,0.5); box-shadow:0px 0px 5px #333; border-radius:5px; margin-top:20px; margin-bottom:20px}
+
+#header{padding:0px}
+
+#top{border-top:1px solid #CCC; border-bottom:1px solid #CCC; background:#D2D2D2 url(../images/bg-main.jpg); border-radius:5px; margin-bottom:10px; padding-top:3px; padding-bottom:3px}
+
+#bottom{border-top:1px solid #CCC; border-bottom:1px solid #CCC; background-color:#D2D2D2; border-radius:5px; margin-bottom:10px; padding-top:3px; padding-bottom:3px}
